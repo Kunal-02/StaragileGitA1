@@ -1,0 +1,4 @@
+/Calculator/
+*.class
+.settings/
+.project
